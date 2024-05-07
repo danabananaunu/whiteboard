@@ -1,4 +1,3 @@
-//unresolved issue: the edit box for the text boxes appears on top of them sometimes
 let zIndexCounter = 0;//the counter for the nr of objects
 let selectedColor = '#ffa500'; //the default color for the notes
 
